@@ -13,8 +13,8 @@ namespace ConsoleApp1
         {
             List<Student> listStudent = new List<Student>();
             IEnumerable<Student> enumStudent = listStudent ;
-            
 
+            var x = 10;
 
         }
         
